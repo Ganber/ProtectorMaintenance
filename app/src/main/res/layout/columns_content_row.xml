@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/instruction_info"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/header_row"
+        android:paddingStart="6dp"
+        android:text="@string/instruction"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/status_info"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+        android:id="@+id/status_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/table_header_status"
+        app:layout_constraintEnd_toStartOf="@+id/comment_info"
+        app:layout_constraintStart_toStartOf="@+id/instruction_info"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:background="@color/header_row"/>
+
+    <TextView
+        android:id="@+id/comment_info"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@color/header_row"
+        android:paddingStart="6dp"
+        android:text="@string/comment"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/status_info"/>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,4 @@
+#Mon Jan 29 10:24:41 IST 2018
+base.0=D\:\\Projects\\ProtectorMaintenance\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

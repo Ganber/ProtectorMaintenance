@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1048768147757",
+    "firebase_url": "https://protector-maintenance.firebaseio.com",
+    "project_id": "protector-maintenance",
+    "storage_bucket": "protector-maintenance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048768147757:android:c3a91b59a9fdd1c2",
+        "android_client_info": {
+          "package_name": "com.example.erana.protectormaintenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048768147757-o01reiipv5i40cnp4l5h9s9f777tomc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRH3CEypttIEVK0fzaRWDf6mLZ9KC_jk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
