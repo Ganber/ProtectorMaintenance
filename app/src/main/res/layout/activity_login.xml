@@ -5,8 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.erana.protectormaintenance.LoginActivity">
-
+    tools:context="com.example.erana.protectormaintenance.LoginActivity"
+    android:background="@drawable/rafaels_protector">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -99,7 +99,8 @@
             android:textAlignment="viewStart"
             android:textColor="@color/colorPrimary"
             android:textSize="18sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold"
+            android:background="@android:color/white"/>
     </LinearLayout>
 
 </RelativeLayout>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Protector Maintenance</string>
+    <string name="app_name">Protector Marine Shield</string>
 
     <!-- Strings related to login -->
     <string name="title_activity_login">Sign in</string>
@@ -37,6 +37,28 @@
     <string name="instruction">Instruction</string>
     <string name="table_header_status">Status</string>
 
+    <!-- Strings related to maintenance spinner options -->
+    <string-array name="vessel_choose">
+        <item>Protector</item>
+        <item>Stalker</item>
+        <item>Toplite</item>
+        <item>Imilite</item>
+    </string-array>
+
+    <string-array name="vessel_id">
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+
+    <string-array name="vessel_site">
+        <item>Dos Bocas</item>
+        <item>Frontera</item>
+        <item>Ciudad Del Carmen</item>
+    </string-array>
 
     <!-- ***********************************  Weekly Preventive Maintenance  *********************************** -->
     <string name="weekly_maintenance">Weekly maintenance</string>
@@ -83,8 +105,8 @@
                                 </string>
 
 
-    <!-- ***********************************  Monthly Preventive Maintenance  *********************************** -->
-    <string name="monthly_maintenance">Monthly maintenance</string>
+    <!-- ***********************************  Power-Up procedure Preventive Maintenance  *********************************** -->
+    <string name="power_up_procedure">Power Up procedure</string>
 
 
 </resources>

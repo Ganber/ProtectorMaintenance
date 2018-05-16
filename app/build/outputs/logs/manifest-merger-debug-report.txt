@@ -1,73 +1,72 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
-MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e1736744652669b07e512d37cf51d408\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0dc3adba9c6b530204ca9997e0ebe994\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-database:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.0.aar\b83ee78cce8aec57307ad7baa73fa4a3\AndroidManifest.xml:2:1-4:12
-MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\accca29408b5f298f39a26eb2051e7b8\AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.firebase:firebase-storage:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.6.0.aar\0854fbc7f84faeb4fd8a5f9d3615490b\AndroidManifest.xml:2:1-4:12
-MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\df04ac5663fb1ee272a640400e2b369d\AndroidManifest.xml:2:1-6:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\57013b4b98c3cddd7b269ca1bc2b8611\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\71cca32aa723ea0f35091cf4e2f2054b\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\542bd4c4ea8e161c11df93830d50aea9\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\fb0aeca5dd40277d49dca2d1df97d93d\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.firebase:firebase-database-connection:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.0.aar\51264be0fa9d38448b97ff1ba15e1167\AndroidManifest.xml:2:1-4:12
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:16:1-35:12
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:16:1-29:12
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:16:1-47:12
-MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\5b46a5d25fd8377095d8d6a52c4a4909\AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.firebase:firebase-storage-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.6.0.aar\64f2fec6f068c29f2ff0ca7bd2ec2a52\AndroidManifest.xml:2:1-4:12
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\721cc2cd525b5a97d3eb6fe2a93dbf7c\AndroidManifest.xml:16:1-23:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\08e30f535c87959d837e69ecf411fec4\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0628737d88a904e101974082c33fa28f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0f1cdc53f5d654b23a88d1ddb3c5a0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac290ba37a1da9d2a6f154013ef8b777\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08233ece58199105843b0e8a4a7a3558\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\25514be6769579aa1e4ad0a61c1881d4\AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\2bcb5c9f1f9afa7d5a250145c8f0705c\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\10aa71bf7f2df4e4e0a951f28fd8b2ab\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\c89756cf6799f7814abba6cfa1874099\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\c29c39123a123e82a3b7d19c116f40fd\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\724df6e283d5cc0b4d91b0d54f324a29\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\40505fad757551692cc4992e5e64d724\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\24b769822fe7b8b2507773cf145e54c8\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\381ba120ee31a8de285f9fea01bf80c5\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\f9dff9f1728f030af53fb77fe2ae7252\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\5bd87b36ad6e6bb7a2b40f9c01df4442\AndroidManifest.xml:2:1-6:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc78e769e8fd9702e1654f877c823470\AndroidManifest.xml:17:1-30:12
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\623b7f40475c50865d4d39e26c86b2a3\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\077c3ca5e9a32453a45ed5cc7a82caa4\AndroidManifest.xml:2:1-6:12
-INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
+ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cadc70d35e72a8085ff6b6acba3743df\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b0b3faba69fb35113f624d95e518e218\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-15.0.1.aar\e37f4a70fd506668b057290eb4ee7c6a\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-storage:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-15.0.2.aar\c9ab5ba3f7324ea79739b28bd0c2f0fe\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.2.aar\caba2865e0995dba876998fd20653d63\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\25257685866304c89d340d4f7629a667\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6527a8c6cc9270d0b1d7756cb623c994\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\fc86985a85282770e227f394d37f8d62\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\62d5e5bdf58f9c34508dd2302b62cc2a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-connection:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-15.0.1.aar\306b24b9908c877da41ca9e7289a26b0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-15.0.2.aar\a4da400475be0b3a4e4ed08f65cb2c6a\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2de7b10ec7c7a8f9b7ea601f250f1439\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\7a586791ec0de0702f84b76aa6781ddb\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d611828509648ca0c7e720de9877249f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\7f7812b6f4c9b30c3e249e9d8f126155\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-15.0.2.aar\321bf33107acb9e49417603033e0ed2c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e6d33871e19d753b7f0e3b8508b6469a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-15.0.0.aar\72aee778a0a38749a1d6b1b3c8892d28\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\8a517b4914cb5079b253c249fa12ab6d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6fafb40c6ded207dd49ab4b4b559602f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c071230fb706f49a27e62e1287b5966e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\26df3f0a4567d896e317d61575bd9fc0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d90f51e1389027a74703ffa21207803\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3555953a193b48ae198adf34f7882a14\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14636dcda088afdfd3106ff651283202\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\061489c5b00d393d8a08a3d33b6affef\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\b3e35dcd03cba33bee23b0bf780350d1\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba89db4978ae678c1f15588822f7c3d5\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
 	package
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:3:11-59
 		INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
 		INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-56:12
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:1-58:12
 		INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:5:5-66
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -87,95 +86,83 @@ ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:9:5
 	android:name
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:9:22-62
 uses-feature#android.hardware.camera
-ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:11:5-84
+ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:11:5-13:34
 	android:required
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:11:58-81
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:13:9-32
 	android:name
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:11:19-57
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:12:9-47
 application
-ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:13:5-54:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e1736744652669b07e512d37cf51d408\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e1736744652669b07e512d37cf51d408\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0dc3adba9c6b530204ca9997e0ebe994\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0dc3adba9c6b530204ca9997e0ebe994\AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\accca29408b5f298f39a26eb2051e7b8\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\accca29408b5f298f39a26eb2051e7b8\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\df04ac5663fb1ee272a640400e2b369d\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\df04ac5663fb1ee272a640400e2b369d\AndroidManifest.xml:5:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\57013b4b98c3cddd7b269ca1bc2b8611\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\57013b4b98c3cddd7b269ca1bc2b8611\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\71cca32aa723ea0f35091cf4e2f2054b\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\71cca32aa723ea0f35091cf4e2f2054b\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\542bd4c4ea8e161c11df93830d50aea9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\542bd4c4ea8e161c11df93830d50aea9\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\fb0aeca5dd40277d49dca2d1df97d93d\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\fb0aeca5dd40277d49dca2d1df97d93d\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:29:5-46:19
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:29:5-46:19
-MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\5b46a5d25fd8377095d8d6a52c4a4909\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\5b46a5d25fd8377095d8d6a52c4a4909\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\721cc2cd525b5a97d3eb6fe2a93dbf7c\AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\721cc2cd525b5a97d3eb6fe2a93dbf7c\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\08e30f535c87959d837e69ecf411fec4\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\08e30f535c87959d837e69ecf411fec4\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0628737d88a904e101974082c33fa28f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0628737d88a904e101974082c33fa28f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0f1cdc53f5d654b23a88d1ddb3c5a0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0f1cdc53f5d654b23a88d1ddb3c5a0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac290ba37a1da9d2a6f154013ef8b777\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac290ba37a1da9d2a6f154013ef8b777\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08233ece58199105843b0e8a4a7a3558\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08233ece58199105843b0e8a4a7a3558\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\25514be6769579aa1e4ad0a61c1881d4\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\25514be6769579aa1e4ad0a61c1881d4\AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\2bcb5c9f1f9afa7d5a250145c8f0705c\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\2bcb5c9f1f9afa7d5a250145c8f0705c\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\10aa71bf7f2df4e4e0a951f28fd8b2ab\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\10aa71bf7f2df4e4e0a951f28fd8b2ab\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\c89756cf6799f7814abba6cfa1874099\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\c89756cf6799f7814abba6cfa1874099\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\c29c39123a123e82a3b7d19c116f40fd\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\c29c39123a123e82a3b7d19c116f40fd\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\724df6e283d5cc0b4d91b0d54f324a29\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\724df6e283d5cc0b4d91b0d54f324a29\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\40505fad757551692cc4992e5e64d724\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\40505fad757551692cc4992e5e64d724\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\24b769822fe7b8b2507773cf145e54c8\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\24b769822fe7b8b2507773cf145e54c8\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\381ba120ee31a8de285f9fea01bf80c5\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\381ba120ee31a8de285f9fea01bf80c5\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\f9dff9f1728f030af53fb77fe2ae7252\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\f9dff9f1728f030af53fb77fe2ae7252\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\5bd87b36ad6e6bb7a2b40f9c01df4442\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\5bd87b36ad6e6bb7a2b40f9c01df4442\AndroidManifest.xml:5:5-20
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc78e769e8fd9702e1654f877c823470\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc78e769e8fd9702e1654f877c823470\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\623b7f40475c50865d4d39e26c86b2a3\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\623b7f40475c50865d4d39e26c86b2a3\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\077c3ca5e9a32453a45ed5cc7a82caa4\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\077c3ca5e9a32453a45ed5cc7a82caa4\AndroidManifest.xml:5:5-20
+ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:15:5-56:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cadc70d35e72a8085ff6b6acba3743df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cadc70d35e72a8085ff6b6acba3743df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b0b3faba69fb35113f624d95e518e218\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b0b3faba69fb35113f624d95e518e218\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.2.aar\caba2865e0995dba876998fd20653d63\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.2.aar\caba2865e0995dba876998fd20653d63\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\25257685866304c89d340d4f7629a667\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\25257685866304c89d340d4f7629a667\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6527a8c6cc9270d0b1d7756cb623c994\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6527a8c6cc9270d0b1d7756cb623c994\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\fc86985a85282770e227f394d37f8d62\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\fc86985a85282770e227f394d37f8d62\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\62d5e5bdf58f9c34508dd2302b62cc2a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\62d5e5bdf58f9c34508dd2302b62cc2a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-15.0.2.aar\a4da400475be0b3a4e4ed08f65cb2c6a\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-15.0.2.aar\a4da400475be0b3a4e4ed08f65cb2c6a\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\7a586791ec0de0702f84b76aa6781ddb\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\7a586791ec0de0702f84b76aa6781ddb\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d611828509648ca0c7e720de9877249f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d611828509648ca0c7e720de9877249f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e6d33871e19d753b7f0e3b8508b6469a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e6d33871e19d753b7f0e3b8508b6469a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-15.0.0.aar\72aee778a0a38749a1d6b1b3c8892d28\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-15.0.0.aar\72aee778a0a38749a1d6b1b3c8892d28\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\8a517b4914cb5079b253c249fa12ab6d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\8a517b4914cb5079b253c249fa12ab6d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6fafb40c6ded207dd49ab4b4b559602f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6fafb40c6ded207dd49ab4b4b559602f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c071230fb706f49a27e62e1287b5966e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c071230fb706f49a27e62e1287b5966e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\26df3f0a4567d896e317d61575bd9fc0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\26df3f0a4567d896e317d61575bd9fc0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d90f51e1389027a74703ffa21207803\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d90f51e1389027a74703ffa21207803\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3555953a193b48ae198adf34f7882a14\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3555953a193b48ae198adf34f7882a14\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14636dcda088afdfd3106ff651283202\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14636dcda088afdfd3106ff651283202\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\061489c5b00d393d8a08a3d33b6affef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\061489c5b00d393d8a08a3d33b6affef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\b3e35dcd03cba33bee23b0bf780350d1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\b3e35dcd03cba33bee23b0bf780350d1\AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba89db4978ae678c1f15588822f7c3d5\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba89db4978ae678c1f15588822f7c3d5\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:18:9-36
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:19:9-36
 	android:label
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:17:9-41
 	android:roundIcon
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:18:9-54
 	android:icon
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:15:9-43
-	android:allowBackup
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:16:9-43
 	android:theme
-		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:20:9-40
 provider#android.support.v4.content.FileProvider
 ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:grantUriPermissions
@@ -187,7 +174,7 @@ ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:21:
 	android:name
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:22:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:26:13-28:64
+ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:26:13-28:53
 	android:resource
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:28:17-51
 	android:name
@@ -198,7 +185,7 @@ ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:31:
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:33:13-54
 	android:name
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:32:13-42
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
 ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:35:17-68
@@ -230,92 +217,90 @@ activity#com.example.erana.protectormaintenance.MainActivity
 ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:52:9-53:20
 	android:name
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:52:19-47
+activity#com.example.erana.protectormaintenance.PowerUpProcedure
+ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:54:9-55:20
+	android:name
+		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml:54:19-51
 uses-sdk
 INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e1736744652669b07e512d37cf51d408\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e1736744652669b07e512d37cf51d408\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0dc3adba9c6b530204ca9997e0ebe994\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0dc3adba9c6b530204ca9997e0ebe994\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-database:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.0.aar\b83ee78cce8aec57307ad7baa73fa4a3\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.0.aar\b83ee78cce8aec57307ad7baa73fa4a3\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\accca29408b5f298f39a26eb2051e7b8\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\accca29408b5f298f39a26eb2051e7b8\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-storage:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.6.0.aar\0854fbc7f84faeb4fd8a5f9d3615490b\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.6.0.aar\0854fbc7f84faeb4fd8a5f9d3615490b\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\df04ac5663fb1ee272a640400e2b369d\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.0.aar\df04ac5663fb1ee272a640400e2b369d\AndroidManifest.xml:4:5-43
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\57013b4b98c3cddd7b269ca1bc2b8611\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\57013b4b98c3cddd7b269ca1bc2b8611\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\71cca32aa723ea0f35091cf4e2f2054b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\71cca32aa723ea0f35091cf4e2f2054b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\542bd4c4ea8e161c11df93830d50aea9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\542bd4c4ea8e161c11df93830d50aea9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\fb0aeca5dd40277d49dca2d1df97d93d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\fb0aeca5dd40277d49dca2d1df97d93d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database-connection:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.0.aar\51264be0fa9d38448b97ff1ba15e1167\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.0.aar\51264be0fa9d38448b97ff1ba15e1167\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\5b46a5d25fd8377095d8d6a52c4a4909\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\5b46a5d25fd8377095d8d6a52c4a4909\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.6.0.aar\64f2fec6f068c29f2ff0ca7bd2ec2a52\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.6.0.aar\64f2fec6f068c29f2ff0ca7bd2ec2a52\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\721cc2cd525b5a97d3eb6fe2a93dbf7c\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\721cc2cd525b5a97d3eb6fe2a93dbf7c\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\08e30f535c87959d837e69ecf411fec4\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\08e30f535c87959d837e69ecf411fec4\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0628737d88a904e101974082c33fa28f\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0628737d88a904e101974082c33fa28f\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0f1cdc53f5d654b23a88d1ddb3c5a0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0f1cdc53f5d654b23a88d1ddb3c5a0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac290ba37a1da9d2a6f154013ef8b777\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac290ba37a1da9d2a6f154013ef8b777\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08233ece58199105843b0e8a4a7a3558\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08233ece58199105843b0e8a4a7a3558\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\25514be6769579aa1e4ad0a61c1881d4\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\25514be6769579aa1e4ad0a61c1881d4\AndroidManifest.xml:21:5-23:58
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\2bcb5c9f1f9afa7d5a250145c8f0705c\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.6.0.aar\2bcb5c9f1f9afa7d5a250145c8f0705c\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\10aa71bf7f2df4e4e0a951f28fd8b2ab\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\10aa71bf7f2df4e4e0a951f28fd8b2ab\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\c89756cf6799f7814abba6cfa1874099\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.6.0.aar\c89756cf6799f7814abba6cfa1874099\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\c29c39123a123e82a3b7d19c116f40fd\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\c29c39123a123e82a3b7d19c116f40fd\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\724df6e283d5cc0b4d91b0d54f324a29\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.6.0.aar\724df6e283d5cc0b4d91b0d54f324a29\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\40505fad757551692cc4992e5e64d724\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\40505fad757551692cc4992e5e64d724\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\24b769822fe7b8b2507773cf145e54c8\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\24b769822fe7b8b2507773cf145e54c8\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\381ba120ee31a8de285f9fea01bf80c5\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\381ba120ee31a8de285f9fea01bf80c5\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\f9dff9f1728f030af53fb77fe2ae7252\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.6.0.aar\f9dff9f1728f030af53fb77fe2ae7252\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\5bd87b36ad6e6bb7a2b40f9c01df4442\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.0.aar\5bd87b36ad6e6bb7a2b40f9c01df4442\AndroidManifest.xml:4:5-43
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc78e769e8fd9702e1654f877c823470\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc78e769e8fd9702e1654f877c823470\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\623b7f40475c50865d4d39e26c86b2a3\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.0.aar\623b7f40475c50865d4d39e26c86b2a3\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\077c3ca5e9a32453a45ed5cc7a82caa4\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.0.aar\077c3ca5e9a32453a45ed5cc7a82caa4\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cadc70d35e72a8085ff6b6acba3743df\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cadc70d35e72a8085ff6b6acba3743df\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b0b3faba69fb35113f624d95e518e218\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b0b3faba69fb35113f624d95e518e218\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-15.0.1.aar\e37f4a70fd506668b057290eb4ee7c6a\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-15.0.1.aar\e37f4a70fd506668b057290eb4ee7c6a\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-15.0.2.aar\c9ab5ba3f7324ea79739b28bd0c2f0fe\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-15.0.2.aar\c9ab5ba3f7324ea79739b28bd0c2f0fe\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.2.aar\caba2865e0995dba876998fd20653d63\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-core-15.0.2.aar\caba2865e0995dba876998fd20653d63\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\25257685866304c89d340d4f7629a667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\25257685866304c89d340d4f7629a667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6527a8c6cc9270d0b1d7756cb623c994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6527a8c6cc9270d0b1d7756cb623c994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\fc86985a85282770e227f394d37f8d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\fc86985a85282770e227f394d37f8d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\62d5e5bdf58f9c34508dd2302b62cc2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\62d5e5bdf58f9c34508dd2302b62cc2a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-15.0.1.aar\306b24b9908c877da41ca9e7289a26b0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-15.0.1.aar\306b24b9908c877da41ca9e7289a26b0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-15.0.2.aar\a4da400475be0b3a4e4ed08f65cb2c6a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-15.0.2.aar\a4da400475be0b3a4e4ed08f65cb2c6a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2de7b10ec7c7a8f9b7ea601f250f1439\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2de7b10ec7c7a8f9b7ea601f250f1439\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\7a586791ec0de0702f84b76aa6781ddb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\7a586791ec0de0702f84b76aa6781ddb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d611828509648ca0c7e720de9877249f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d611828509648ca0c7e720de9877249f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\7f7812b6f4c9b30c3e249e9d8f126155\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\7f7812b6f4c9b30c3e249e9d8f126155\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-15.0.2.aar\321bf33107acb9e49417603033e0ed2c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-15.0.2.aar\321bf33107acb9e49417603033e0ed2c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e6d33871e19d753b7f0e3b8508b6469a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\e6d33871e19d753b7f0e3b8508b6469a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-15.0.0.aar\72aee778a0a38749a1d6b1b3c8892d28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-15.0.0.aar\72aee778a0a38749a1d6b1b3c8892d28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\8a517b4914cb5079b253c249fa12ab6d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\8a517b4914cb5079b253c249fa12ab6d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6fafb40c6ded207dd49ab4b4b559602f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6fafb40c6ded207dd49ab4b4b559602f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c071230fb706f49a27e62e1287b5966e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c071230fb706f49a27e62e1287b5966e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\26df3f0a4567d896e317d61575bd9fc0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\26df3f0a4567d896e317d61575bd9fc0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d90f51e1389027a74703ffa21207803\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d90f51e1389027a74703ffa21207803\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3555953a193b48ae198adf34f7882a14\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3555953a193b48ae198adf34f7882a14\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14636dcda088afdfd3106ff651283202\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14636dcda088afdfd3106ff651283202\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\061489c5b00d393d8a08a3d33b6affef\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\061489c5b00d393d8a08a3d33b6affef\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\b3e35dcd03cba33bee23b0bf780350d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.2.aar\b3e35dcd03cba33bee23b0bf780350d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba89db4978ae678c1f15588822f7c3d5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba89db4978ae678c1f15588822f7c3d5\AndroidManifest.xml:20:5-22:41
 INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
@@ -325,184 +310,234 @@ INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 		ADDED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Projects\ProtectorMaintenance\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e1736744652669b07e512d37cf51d408\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e1736744652669b07e512d37cf51d408\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\57013b4b98c3cddd7b269ca1bc2b8611\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\57013b4b98c3cddd7b269ca1bc2b8611\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\71cca32aa723ea0f35091cf4e2f2054b\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\71cca32aa723ea0f35091cf4e2f2054b\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\542bd4c4ea8e161c11df93830d50aea9\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\542bd4c4ea8e161c11df93830d50aea9\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\fb0aeca5dd40277d49dca2d1df97d93d\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\fb0aeca5dd40277d49dca2d1df97d93d\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\08e30f535c87959d837e69ecf411fec4\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\08e30f535c87959d837e69ecf411fec4\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0628737d88a904e101974082c33fa28f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0628737d88a904e101974082c33fa28f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0f1cdc53f5d654b23a88d1ddb3c5a0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0f1cdc53f5d654b23a88d1ddb3c5a0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac290ba37a1da9d2a6f154013ef8b777\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac290ba37a1da9d2a6f154013ef8b777\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08233ece58199105843b0e8a4a7a3558\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08233ece58199105843b0e8a4a7a3558\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\25514be6769579aa1e4ad0a61c1881d4\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\25514be6769579aa1e4ad0a61c1881d4\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cadc70d35e72a8085ff6b6acba3743df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\cadc70d35e72a8085ff6b6acba3743df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\25257685866304c89d340d4f7629a667\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\25257685866304c89d340d4f7629a667\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6527a8c6cc9270d0b1d7756cb623c994\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6527a8c6cc9270d0b1d7756cb623c994\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\fc86985a85282770e227f394d37f8d62\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\fc86985a85282770e227f394d37f8d62\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\62d5e5bdf58f9c34508dd2302b62cc2a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\62d5e5bdf58f9c34508dd2302b62cc2a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c071230fb706f49a27e62e1287b5966e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c071230fb706f49a27e62e1287b5966e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\26df3f0a4567d896e317d61575bd9fc0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\26df3f0a4567d896e317d61575bd9fc0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d90f51e1389027a74703ffa21207803\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d90f51e1389027a74703ffa21207803\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3555953a193b48ae198adf34f7882a14\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3555953a193b48ae198adf34f7882a14\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14636dcda088afdfd3106ff651283202\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14636dcda088afdfd3106ff651283202\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\061489c5b00d393d8a08a3d33b6affef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\061489c5b00d393d8a08a3d33b6affef\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8652275d24224008b7e54437312acfdd\AndroidManifest.xml:27:13-51
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:19:5-78
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:19:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:21:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:22:22-65
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:25:7-26:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:25:90-112
+		ADDED from [com.android.support:design:26.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e81ac24db3f00903f906cf6022641286\AndroidManifest.xml:27:13-51
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:27:13-48
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:25:113-137
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:25:17-89
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:27:7-31:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:27:162-184
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:27:185-208
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:26:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:27:105-161
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:27:17-104
-intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:28:11-30:27
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:29:15-76
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:29:23-74
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:27:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\75aeefe62fae7730fcf991f1d5508530\AndroidManifest.xml:27:7-137
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:32:88-110
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:32:111-135
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:32:16-87
-service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:33:7-197
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:33:148-170
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:33:171-195
-	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:33:91-147
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\15399b664b156b68e21ac7825a58c35e\AndroidManifest.xml:33:16-90
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:23:5-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:23:22-79
-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:25:5-109
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:25:72-107
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:25:17-71
-permission#com.example.erana.protectormaintenance.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:25:5-109
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:25:72-107
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:25:17-71
-uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:27:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:27:22-76
-uses-permission#com.example.erana.protectormaintenance.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:27:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:27:22-76
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:31:9-36:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:31:85-108
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:31:109-169
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:31:19-84
-intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:32:13-35:29
-intent-filter#com.example.erana.protectormaintenance+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:32:13-35:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:33:17-80
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:33:25-78
-category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:34:17-60
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:34:27-58
-category#com.example.erana.protectormaintenance
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:34:17-60
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:34:27-58
-service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:40:9-44:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:40:83-106
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:40:18-82
-intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:41:13-43:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:41:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:42:17-79
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\3a59ee5b1192afac0095a9e4b5815513\AndroidManifest.xml:42:25-77
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:6:9-194
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:6:19-78
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:6:144-168
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:6:169-192
-	android:name
-		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\ac90c7c49ea90e73d01a2ba2e5b7b770\AndroidManifest.xml:6:79-143
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:28:13-102
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:29:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\205b76d8294d603ac2ea9b26a9b167ae\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-auth-15.1.0.aar\0cf61e06e3bb9dc09b42a3b7a523d06a\AndroidManifest.xml:33:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-15.0.0.aar\acd40b3ddb94f2c547e260d50e27f560\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.2.aar\b0a839ae5dedd1f5f51592702a6741cb\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-analytics-15.0.2.aar\4c4d4415bb6c1400b455e5ec16dede13\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:29:9-63
+permission#com.example.erana.protectormaintenance.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:32:22-76
+uses-permission#com.example.erana.protectormaintenance.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.erana.protectormaintenance
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:48:27-58
+category#com.example.erana.protectormaintenance
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\f9eeac6282b9d54f2e658e963d12ec1b\AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\eba082b73be3309a61b73d76103851c0\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9fcfae0556e9d19acf6795a7df29b61e\AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\721cc2cd525b5a97d3eb6fe2a93dbf7c\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6fafb40c6ded207dd49ab4b4b559602f\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\721cc2cd525b5a97d3eb6fe2a93dbf7c\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6fafb40c6ded207dd49ab4b4b559602f\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\721cc2cd525b5a97d3eb6fe2a93dbf7c\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\6fafb40c6ded207dd49ab4b4b559602f\AndroidManifest.xml:24:13-58
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc78e769e8fd9702e1654f877c823470\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba89db4978ae678c1f15588822f7c3d5\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc78e769e8fd9702e1654f877c823470\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba89db4978ae678c1f15588822f7c3d5\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fc78e769e8fd9702e1654f877c823470\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\erana\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba89db4978ae678c1f15588822f7c3d5\AndroidManifest.xml:26:13-58
